@@ -1,0 +1,174 @@
+/*header*/
+.cnn-logo {
+    width:80px;
+}
+
+header {
+    background-color:#cc1317;
+}
+
+/*nav bar*/
+.bg-dark {
+    background-color:#cc1317 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:#ffffff;
+}
+
+
+/*body*/
+body {
+    padding-top:100px;
+}
+
+h1 {
+    font-size:36px;
+    font-family:'Work Sans', sans-serif;
+    color:#191970;
+    padding-bottom:20px;
+}
+
+.byline {
+    font-family:'Arial', 'Helvetica', sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    color:#808080;
+}
+
+p {
+    font-size:16px;
+    font-family:'Roboto Slab', serif;
+}
+
+.first-p {
+    font-weight:600;
+}
+
+.names {
+    font-weight:600;
+    color:#8b0000;
+}
+
+.quotes {
+    font-style:italic;
+}
+
+a {
+    text-decoration:none;
+    color:#800000;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:#670000;
+}
+
+blockquote {
+    margin:50px;
+    color:#191970;
+    font-family:'Work Sans', sans-serif;
+    font-weight:600;
+    font-size:28px;
+    font-style:italic;
+    padding:20px 0 20px 0;
+    border-block-start: 4px solid #191970;
+    border-block-end: 4px solid #191970;
+}
+
+/*aside*/
+
+h4 {
+    font-family:'Work Sans', sans-serif;
+    color:#ffffff;
+    background-color:#cc1317;
+    text-transform: uppercase;
+    font-size:16px;
+    font-weight:600;
+    text-align:center;
+}
+
+h5 {
+    font-size:16px;
+    font-family:'Roboto Slab', serif;
+    margin-top:5px;
+}
+
+.featured {
+    color:#000000;
+}
+
+.featured:hover {
+    text-decoration:none;
+    color:#670000;
+}
+
+.featured-image:hover {
+    opacity:0.5;
+}
+
+/*you might also like*/
+h2 {
+    font-family:'Work Sans', sans-serif;
+    color:#191970;
+}
+
+/*footer*/
+.copyright {
+    font-size:12px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+/* Add a hover effect if you want */
+.fa:hover {
+    color:#ffffff;
+    text-decoration:none;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: #ffffff;
+  }
+  
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: #ffffff;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: #ffffff;
+  }
+
+/*jumbotron*/
+.center {
+    margin:0 auto;
+}
+
+.jumbotron {
+    background-image:url(../images/plane-transparent.png);
+    background-size:cover;
+}
+
+.dek {
+    font-weight:800;
+}
+
+.btn {
+    background:#cc1317;
+    border:none;
+}
+
+.btn:hover {
+    background:#670000;
+}
